@@ -29,7 +29,7 @@ Backend Developer 🚀 | Game Developer 🎮 | Artist 🎨
 
 ### 🛠 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,cs,postgresql,python,html,css,bootstrap,unity,flutter," />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,cs,postgresql,python,html,css,bootstrap,unity,flutter,linux" />
 </p>
 
 ---
